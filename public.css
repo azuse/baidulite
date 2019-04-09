@@ -282,7 +282,6 @@ em {
                /* Opera */
                
                background-position: 100% !important;
-               z-index: -1;
                width: 600px;
                height: 39px;
                font-family: Helvetica, "Microsoft Yahei UI";
@@ -455,6 +454,7 @@ em {
                border-radius: 0px;
                font-family: Helvetica, "Microsoft Yahei UI";
                width: 599px !important;
+               z-index:1;
 }
 .bgsug li {
                font-family: Helvetica, "Microsoft Yahei UI" !important;
